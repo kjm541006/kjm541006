@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jumin%20Kim&fontSize=90)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjm541006&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjm541006)](https://github.com/anuraghazra/github-readme-stats)
