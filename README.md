@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kjm541006/kjm541006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +16,5 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jumin%20Kim&fontSize=90)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjm541006&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjm541006)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://img.shields.io/badge/#E34F26?style=for-the-badge&logo=HTML5&logoColor=black">
